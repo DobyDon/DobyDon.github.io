@@ -1,15 +1,12 @@
 ---
-title: "Game"
-date: 2025-06-05 14:00:00 +0700
-categories: [game]
-tags: [game]
+icon: fas fa-gamepad
+order: 6
 ---
 
-
 ### Game
-> **Note:** Blokir iklan denga Ad Blcok
+> **Note:** Blokir iklan denga [Ad Blcok]()
 
-> **Tip:** Gunakan Internet Download Manager (IDM) untuk mengunduh file.
+> **Tip:** Gunakan Internet Download Manager [IDM](/windows#download-managers) untuk mengunduh file.
 ---
 #### Game Store
 - [Steam](https://store.steampowered.com/)
