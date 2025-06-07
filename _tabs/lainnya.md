@@ -1,6 +1,6 @@
 ---
 # the default layout is 'page'
-icon: fas fa-shield
+icon: fas fa-folder
 order: 12
 ---
 
