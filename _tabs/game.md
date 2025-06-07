@@ -7,6 +7,7 @@ order: 6
 > **Note:** Blokir iklan denga Ad Blcok
 
 > **Tip:** Gunakan Internet Download Manager (IDM) untuk mengunduh file.
+> 
 ---
 #### Game Store
 - [Steam](https://store.steampowered.com/)
