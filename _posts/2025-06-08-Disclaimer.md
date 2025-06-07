@@ -1,8 +1,8 @@
 ---
 title: "Disclaimer"
 date: 2025-06-08 01:00:00 +0700
-categories: [disclaimer]
-tags: [disclaimer]
+# categories: [disclaimer]
+# tags: [disclaimer]
 ---
 ### Disclaimer
 
