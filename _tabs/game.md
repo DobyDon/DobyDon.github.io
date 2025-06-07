@@ -4,10 +4,9 @@ order: 6
 ---
 
 ### Game
-> **Note:** Blokir iklan denga Ad Blcok
+> **Note:** Blokir iklan denga Ad Blcok {: .prompt-info }
 
-> **Tip:** Gunakan Internet Download Manager (IDM) untuk mengunduh file.
-> 
+> **Tip:** Gunakan Internet Download Manager (IDM) untuk mengunduh file. {: .prompt-tip }
 ---
 
 #### Game Store
