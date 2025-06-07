@@ -4,10 +4,10 @@ order: 6
 ---
 
 ### Game
-> **Note:** Blokir iklan denga Ad Blcok {: .prompt-info }
-
-> **Tip:** Gunakan Internet Download Manager (IDM) untuk mengunduh file. {: .prompt-tip }
----
+> Blokir iklan denga Ad Blcok
+{: .prompt-info }
+> Gunakan Internet Download Manager (IDM) untuk mengunduh file.
+{: .prompt-tip }
 
 #### Game Store
 - [Steam](https://store.steampowered.com/)
