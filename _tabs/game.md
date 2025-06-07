@@ -9,6 +9,7 @@ order: 6
 > **Tip:** Gunakan Internet Download Manager (IDM) untuk mengunduh file.
 > 
 ---
+
 #### Game Store
 - [Steam](https://store.steampowered.com/)
   - [SteamDB](https://steamdb.info/) - [Ekstensi](https://steamdb.info/extension/)
