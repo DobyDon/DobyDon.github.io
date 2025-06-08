@@ -226,4 +226,4 @@ jekyll-archives:
     category: /categories/:name/
 
 # the favicon link
-favicon: /assets/img/favicons/favicon.ico
+favicon: /assets/images/favicons/favicon.ico
