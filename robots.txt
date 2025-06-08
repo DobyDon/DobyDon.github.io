@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dobydon.github.io/sitemap.xml
