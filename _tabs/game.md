@@ -64,3 +64,4 @@ order: 6
   - [WeMod Crack](https://cs.rin.ru/forum/viewtopic.php?f=14&t=114927 )
 - [Cheat Evolution](https://cheatevolution.com/ )
 - [FearLess](https://fearlessrevolution.com/) Community Cheat Tables untuk Cheat Engine
+- [CseTrainer](https://cse.google.com/cse?cx=97ac4d8fef27b40ab#gsc.tab=0) Multi Site Trainer Search
