@@ -4,9 +4,6 @@ icon: fas fa-folder
 order: 12
 ---
 
-### Lainya
----
-
 #### Temp Mail
 - [Smailpro](https://smailpro.com/temporary-email)
 - [Gmailnator](https://emailnator.com/)

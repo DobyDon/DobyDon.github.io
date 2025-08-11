@@ -4,9 +4,6 @@ icon: fas fa-desktop
 order: 5
 ---
 
-### Windows
----
-
 #### Windows Download
 - [Software Download](https://www.microsoft.com/en-us/software-download/) download windows
 

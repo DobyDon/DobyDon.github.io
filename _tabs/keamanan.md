@@ -4,9 +4,6 @@ icon: fas fa-shield
 order: 11
 ---
 
-### Keamanan
----
-
 #### Virus Scan
 - [Virustotal](https://www.virustotal.com/gui/home/upload)
 - [Jotti](https://virusscan.jotti.org/)

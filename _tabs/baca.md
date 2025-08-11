@@ -3,9 +3,6 @@
 icon: fas fa-book
 order: 9
 ---
-
-### Baca
----
 #### Komik
 - [Readcomiconline](https://readcomiconline.li/)
 - [Getcomics](https://getcomics.org/)

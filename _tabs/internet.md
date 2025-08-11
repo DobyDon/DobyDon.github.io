@@ -4,7 +4,7 @@ icon: fas fa-globe
 order: 10
 ---
 
-### Ad block
+#### Ad block
 - [uBlock](https://github.com/gorhill/uBlock)
   - [Lite](https://github.com/uBlockOrigin/uBOL-home)
 
@@ -21,6 +21,7 @@ order: 10
 - [Pagespeed](https://pagespeed.web.dev/)
 - [Web Oproxy](https://weboproxy.com/)
 - [Vpn mentor](https://www.vpnmentor.com/tools/ip-leak-test-vpns-tor/)
+- [Proxyium](https://proxyium.com/) Proxy web gratis untuk akses anonim dan aman.
 
 #### Youtube
 - [Sponsor Block](https://sponsor.ajay.app/)

@@ -3,10 +3,9 @@ icon: fas fa-gamepad
 order: 6
 ---
 
-### Game
-> Blokir iklan denga Ad Blcok
+> Blokir iklan denga [Ad Blcok](https://dobydon.github.io/internet/#ad-block)
 {: .prompt-info }
-> Gunakan Internet Download Manager (IDM) untuk mengunduh file.
+> Gunakan [Download Manager](https://dobydon.github.io/windows/#download-managers) untuk mengunduh file.
 {: .prompt-tip }
 
 #### Game Store
@@ -55,6 +54,9 @@ order: 6
 - [Wabbajack](https://www.wabbajack.org/) Modlist Installer Otomatis untuk Game Bethesda
   - [Discord](https://discord.com/invite/G9ybsAeH7B)
   - [Wiki](https://wiki.wabbajack.org/)
+- [Curseforge](https://www.curseforge.com/)
+- [Mod](https://mod.io/) Moddb baru
+  - [Moddb](https://www.moddb.com/) Komunitas mod game tertua yang menghubungkan pemain, pengembang, dan ide kreatif.
 
 #### Trainer
 - [Cheat Engine](https://www.cheatengine.org/)

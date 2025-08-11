@@ -4,9 +4,6 @@ icon: fas fa-plus
 order: 13
 ---
 
-### Kristen
----
-
 #### Keristen
 - [Nextinfo](https://nextinfo.cz/id)
   - [Jesus film](https://www.jesusfilm.org/watch/jesus.html/indonesian-yesus.html)

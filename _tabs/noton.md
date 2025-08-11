@@ -4,8 +4,6 @@ icon: fas fa-film
 order: 8
 ---
 
-### Nonton
----
 #### Film / Series
 - [Pusatfilm21](https://pusatfilm21.info/)
 - [Uflix](https://uflix.to/)
@@ -13,6 +11,10 @@ order: 8
 - [Noxx](https://noxx.to/)
 - [Tinyzone](https://www.tinyzone.is/)
 - [Myflixer](https://www.myflixer.do/)
+
+#### Series
+- [Turkish123](https://hds.turkish123.com/) Drama Turki Sub Eng 
+- [Goplay](https://goplay.ml/)
 
 #### Situs Torrent
 - [1337x](https://1337x.to/movie-library/1/)
