@@ -1,43 +1,82 @@
-# Chirpy Starter
+<div class="prose prose-sm md:prose-base lg:prose-lg max-w-none prose-headings:font-bold prose-a:text-blue-600" style="user-select: none;"><div id="top" class="">
 
-[![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;
-[![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
+<div align="center" class="text-center">
+<h1>DOBYDON.GITHUB.IO</h1>
+<p><em>Empowering Your Digital Presence with Seamless Innovation</em></p>
 
-When installing the [**Chirpy**][chirpy] theme through [RubyGems.org][gem], Jekyll can only read files in the folders
-`_data`, `_layouts`, `_includes`, `_sass` and `assets`, as well as a small part of options of the `_config.yml` file
-from the theme's gem. If you have ever installed this theme gem, you can use the command
-`bundle info --path jekyll-theme-chirpy` to locate these files.
-
-The Jekyll team claims that this is to leave the ball in the user’s court, but this also results in users not being
-able to enjoy the out-of-the-box experience when using feature-rich themes.
-
-To fully use all the features of **Chirpy**, you need to copy the other critical files from the theme's gem to your
-Jekyll site. The following is a list of targets:
-
-```shell
-.
-├── _config.yml
-├── _plugins
-├── _tabs
-└── index.html
-```
-
-To save you time, and also in case you lose some files while copying, we extract those files/configurations of the
-latest version of the **Chirpy** theme and the [CD][CD] workflow to here, so that you can start writing in minutes.
-
-## Usage
-
-Check out the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy/wiki).
-
-## Contributing
-
-This repository is automatically updated with new releases from the theme repository. If you encounter any issues or want to contribute to its improvement, please visit the [theme repository][chirpy] to provide feedback.
-
-## License
-
-This work is published under [MIT][mit] License.
-
-[gem]: https://rubygems.org/gems/jekyll-theme-chirpy
-[chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
-[CD]: https://en.wikipedia.org/wiki/Continuous_deployment
-[mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
+<img alt="last-commit" src="https://img.shields.io/github/last-commit/DobyDon/DobyDon.github.io?style=flat&amp;logo=git&amp;logoColor=white&amp;color=0080ff" class="inline-block mx-1" style="margin: 0px 2px;">
+<img alt="repo-top-language" src="https://img.shields.io/github/languages/top/DobyDon/DobyDon.github.io?style=flat&amp;color=0080ff" class="inline-block mx-1" style="margin: 0px 2px;">
+<img alt="repo-language-count" src="https://img.shields.io/github/languages/count/DobyDon/DobyDon.github.io?style=flat&amp;color=0080ff" class="inline-block mx-1" style="margin: 0px 2px;">
+<p><em>Built with the tools and technologies:</em></p>
+<img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?style=flat&amp;logo=Markdown&amp;logoColor=white" class="inline-block mx-1" style="margin: 0px 2px;">
+<img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D.svg?style=flat&amp;logo=Ruby&amp;logoColor=white" class="inline-block mx-1" style="margin: 0px 2px;">
+<img alt="GNU%20Bash" src="https://img.shields.io/badge/GNU%20Bash-4EAA25.svg?style=flat&amp;logo=GNU-Bash&amp;logoColor=white" class="inline-block mx-1" style="margin: 0px 2px;">
+<img alt="GitHub%20Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=flat&amp;logo=GitHub-Actions&amp;logoColor=white" class="inline-block mx-1" style="margin: 0px 2px;">
+</div>
+<br>
+<hr>
+<h2>Table of Contents</h2>
+<ul class="list-disc pl-4 my-0">
+<li class="my-0"><a href="#overview">Overview</a></li>
+<li class="my-0"><a href="#getting-started">Getting Started</a>
+<ul class="list-disc pl-4 my-0">
+<li class="my-0"><a href="#prerequisites">Prerequisites</a></li>
+<li class="my-0"><a href="#installation">Installation</a></li>
+<li class="my-0"><a href="#usage">Usage</a></li>
+<li class="my-0"><a href="#testing">Testing</a></li>
+</ul>
+</li>
+</ul>
+<hr>
+<h2>Overview</h2>
+<p>DobyDon.github.io is a versatile static site framework built on Jekyll, empowering developers to create, customize, and deploy feature-rich websites efficiently. With automated workflows and comprehensive configuration options, it simplifies site management while supporting advanced features like SEO, social sharing, and PWA capabilities.</p>
+<p><strong>Why DobyDon.github.io?</strong></p>
+<p>This project streamlines the development and deployment of modern static websites. The core features include:</p>
+<ul class="list-disc pl-4 my-0">
+<li class="my-0">🛠️ <strong>Automated Build &amp; Deployment:</strong> Seamlessly compile and publish your site with GitHub Actions workflows.</li>
+<li class="my-0">🚀 <strong>Extensive Customization:</strong> Fine-tune site appearance, metadata, and integrations through flexible configuration files.</li>
+<li class="my-0">🔍 <strong>SEO &amp; Analytics Support:</strong> Optimize discoverability with built-in SEO, Google verification, and analytics integration.</li>
+<li class="my-0">🔗 <strong>Content Management Tools:</strong> Keep your content up-to-date with hooks that automatically update post metadata.</li>
+<li class="my-0">📱 <strong>Developer-Friendly Workflows:</strong> Local testing scripts and validation tools ensure smooth development and deployment.</li>
+</ul>
+<hr>
+<h2>Getting Started</h2>
+<h3>Prerequisites</h3>
+<p>This project requires the following dependencies:</p>
+<ul class="list-disc pl-4 my-0">
+<li class="my-0"><strong>Programming Language:</strong> HTML</li>
+<li class="my-0"><strong>Package Manager:</strong> Bundler</li>
+</ul>
+<h3>Installation</h3>
+<p>Build DobyDon.github.io from the source and install dependencies:</p>
+<ol>
+<li class="my-0">
+<p><strong>Clone the repository:</strong></p>
+<pre><code class="language-sh">❯ git clone https://github.com/DobyDon/DobyDon.github.io
+</code></pre>
+</li>
+<li class="my-0">
+<p><strong>Navigate to the project directory:</strong></p>
+<pre><code class="language-sh">❯ cd DobyDon.github.io
+</code></pre>
+</li>
+<li class="my-0">
+<p><strong>Install the dependencies:</strong></p>
+</li>
+</ol>
+<p><strong>Using <a href="https://www.ruby-lang.org/">bundler</a>:</strong></p>
+<pre><code class="language-sh">❯ bundle install
+</code></pre>
+<h3>Usage</h3>
+<p>Run the project with:</p>
+<p><strong>Using <a href="https://www.ruby-lang.org/">bundler</a>:</strong></p>
+<pre><code class="language-sh">bundle exec ruby {entrypoint}
+</code></pre>
+<h3>Testing</h3>
+<p>Dobydon.github.io uses the {<strong>test_framework</strong>} test framework. Run the test suite with:</p>
+<p><strong>Using <a href="https://www.ruby-lang.org/">bundler</a>:</strong></p>
+<pre><code class="language-sh">bundle exec rspec
+</code></pre>
+<hr>
+<div align="left" class=""><a href="#top">⬆ Return</a></div>
+<hr></div></div>
