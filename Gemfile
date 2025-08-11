@@ -15,3 +15,9 @@ platforms :mingw, :x64_mingw, :mswin, :jruby do
   gem "tzinfo-data"
   gem "wdm", "~> 0.2.0"
 end
+
+gem "csv", "~> 3.3"
+
+gem "logger", "~> 1.7"
+
+gem "base64", "~> 0.3.0"
