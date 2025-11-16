@@ -1,10 +1,15 @@
 // ==UserScript==
 // @name         DobyDon TOC
-// @namespace    https://dobydon.github.io
-// @version      1.1
-// @description  nested TOC + search + smooth scroll + highlight
+// @namespace    https://dobydon.github.io/
+// @version      1.2
+// @description  Nested TOC + search + smooth scroll + highlight
+// @author       DobyDon
+// @homepage     https://dobydon.github.io
 // @match        https://dobydon.github.io/*
 // @icon         https://dobydon.github.io/assets/images/profile.png
+// @downloadURL  https://raw.githubusercontent.com/DobyDon/DobyDon.github.io/main/DobyDonTOC.user.js
+// @updateURL    https://raw.githubusercontent.com/DobyDon/DobyDon.github.io/main/DobyDonTOC.user.js
+// @license      MIT
 // @grant        none
 // ==/UserScript==
 
