@@ -2,6 +2,7 @@
 # the default layout is 'page'
 icon: fas fa-wrench
 order: 13
+search: true
 ---
 
 #### Dev

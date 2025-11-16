@@ -2,6 +2,7 @@
 # the default layout is 'page'
 icon: fas fa-file-audio
 order: 10
+search: true
 ---
 
 #### DAW

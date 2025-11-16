@@ -2,6 +2,7 @@
 # the default layout is 'page'
 icon: fas fa-plus
 order: 15
+search: true
 ---
 
 #### Keristen

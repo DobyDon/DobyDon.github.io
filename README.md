@@ -73,9 +73,10 @@ bundle exec rspec
 ---
 ## Install Add On
 
-Userscript dapat diinstal melalui link RAW berikut:
+Menambah TOC (Table of Contents) dan Content search di setiap halaman.
 
-https://raw.githubusercontent.com/DobyDon/DobyDon.github.io/main/DobyDonTOC.user.js
+Dapat di instal melalui **Tampermonkey** atau **Greasemonkey** dengan link 
+**[berikut](https://raw.githubusercontent.com/DobyDon/DobyDon.github.io/main/DobyDonTOC.user.js)**
 
 ---
 

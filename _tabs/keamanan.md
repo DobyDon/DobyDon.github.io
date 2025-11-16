@@ -2,6 +2,7 @@
 # the default layout is 'page'
 icon: fas fa-shield
 order: 12
+search: true
 ---
 
 #### Virus Scan

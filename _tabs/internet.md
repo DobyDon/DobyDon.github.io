@@ -2,6 +2,7 @@
 # the default layout is 'page'
 icon: fas fa-globe
 order: 6
+search: true
 ---
 
 #### Ad block
@@ -73,6 +74,13 @@ order: 6
 
 - [Is.gd](https://www.is.gd/)
 - [Anon.to](https://anon.to/) URL Anonim
+
+#### Userscript manager
+
+- [Violentmonkey](https://violentmonkey.github.io/) 
+- [Tampermonkey](https://www.tampermonkey.net/)
+- [Greasespot](https://www.greasespot.net/)
+- [FireMonkey](https://github.com/erosman/firemonkey)
 
 #### User Script
 

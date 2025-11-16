@@ -45,8 +45,9 @@ order: 5
 
 #### Download Managers
 
+- [AB Download Manager](https://abdownloadmanager.com/)
 - [JDownloader](https://jdownloader.org/jdownloader2)
-- [IDM](https://rentry.co/FMHYBase64#idm)
+- [IDM](https://www.internetdownloadmanager.com/download.html)
   - [Instruksi](https://rentry.org/installidm)
 - [Xtreme download manager](https://xtremedownloadmanager.com/)
 - [Internet Download Accelerator](https://westbyte.com/ida/)

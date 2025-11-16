@@ -1,6 +1,7 @@
 ---
 icon: fas fa-gamepad
 order: 8
+search: true
 ---
 
 > Blokir iklan denga [Ad Blcok](https://dobydon.github.io/internet/#ad-block)
