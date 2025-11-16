@@ -1,4 +1,4 @@
-# DOBYDON.GITHUB.IO
+# [DOBYDON.GITHUB.IO](https://dobydon.github.io/)
 
 *is a versatile static site framework built on Jekyll*
 
@@ -21,6 +21,7 @@
 * [Installation](#installation)
 * [Usage](#usage)
 * [Testing](#testing)
+* [Install Add On](#install-add-on)
 
 ---
 ## Getting Started
@@ -68,6 +69,13 @@ Dobydon.github.io uses the **{test_framework}** test framework. Run the test sui
 ```sh
 bundle exec rspec
 ```
+
+---
+## Install Add On
+
+Userscript dapat diinstal melalui link RAW berikut:
+
+https://raw.githubusercontent.com/DobyDon/DobyDon.github.io/main/DobyDonTOC.user.js
 
 ---
 
