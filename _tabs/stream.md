@@ -4,6 +4,9 @@ icon: fas fa-film
 order: 9
 ---
 
+> Blokir iklan denga [Ad Blcok](https://dobydon.github.io/internet/#ad-block)
+{: .prompt-info }
+
 #### Film / Series
 
 - [Pusatfilm21](https://pusatfilm21.info/)

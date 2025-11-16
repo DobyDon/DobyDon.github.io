@@ -2,6 +2,7 @@
 # the default layout is 'page'
 icon: fas fa-folder
 order: 14
+search: true
 ---
 
 #### Temp Mail

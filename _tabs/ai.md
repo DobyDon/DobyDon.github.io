@@ -2,6 +2,7 @@
 # the default layout is 'page'
 icon: fas fa-microchip
 order: 7
+search: true
 ---
 
 #### Chat Bot

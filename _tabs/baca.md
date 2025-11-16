@@ -2,6 +2,7 @@
 # the default layout is 'page'
 icon: fas fa-book
 order: 11
+search: true
 ---
 #### Komik
 

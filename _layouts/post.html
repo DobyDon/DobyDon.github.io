@@ -1,0 +1,10 @@
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+  if (document.body.classList.contains("post")) {
+    document.querySelectorAll(".post-content a[href^='http']").forEach(a => {
+      a.setAttribute("target", "_blank");
+      a.setAttribute("rel", "noopener noreferrer");
+    });
+  }
+});
+</script>

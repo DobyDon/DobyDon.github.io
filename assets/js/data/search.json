@@ -1,0 +1,18 @@
+---
+layout: null
+---
+
+[
+  {% assign posts = site.posts | where: "search", true %}
+  {% assign pages = site.pages | where: "search", true %}
+
+  {% assign items = posts | concat: pages %}
+
+  {% for item in items %}
+  {
+    "title": {{ item.title | jsonify }},
+    "url": {{ item.url | relative_url | jsonify }},
+    "content": {{ item.content | strip_html | normalize_whitespace | jsonify }}
+  }{% if forloop.last == false %},{% endif %}
+  {% endfor %}
+]
