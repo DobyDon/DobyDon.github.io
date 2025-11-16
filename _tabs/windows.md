@@ -22,7 +22,7 @@ order: 5
 - [Uninstall Microsoft Edge](https://gist.github.com/ave9858/c3451d9f452389ac7607c99d45edecc6)
 - [Hwinfo](https://www.hwinfo.com/) System Info & Monitoring
 - [God Mode](https://www.gamingpcbuilder.com/how-to-enable-god-mode-in-windows/) Enable God Mode in Windows
-- [Windows 11 Tweaks](https://www.windowscentral.com/how-to-enable-god-mode-in-windows-11) Enable God Mode in Windows 11
+- [Windows 11 Tweaks](https://www.windowscentral.com/software-apps/windows-11/my-essential-windows-11-tweaks-22-settings-to-change) Windows 11 Tweaks
 
 #### Windows Context Menu
 
