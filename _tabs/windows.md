@@ -47,12 +47,20 @@ order: 5
 
 - [AB Download Manager](https://abdownloadmanager.com/)
 - [JDownloader](https://jdownloader.org/jdownloader2)
+  - [Clean Installers](https://board.jdownloader.org/showthread.php?t=54725) JDownloader 2 Clean Installers (No Adware!)
 - [IDM](https://www.internetdownloadmanager.com/download.html)
   - [Instruksi](https://rentry.org/installidm)
 - [Xtreme download manager](https://xtremedownloadmanager.com/)
-- [Internet Download Accelerator](https://westbyte.com/ida/)
 - [Free Download Manager](https://www.freedownloadmanager.org/)
 - [Motrix](https://motrix.app/) Bisa unduh BitTorrent dan Magnet
+- [File Centipede](https://filecxx.com/en_US/index.html#)
+  - [Activation Code](https://filecxx.com/en_US/activation_code.html)
+  - [Github](https://github.com/filecxx/FileCentipede/)
+- [HTTP Downloader](https://erickutcher.github.io/)
+- [Arrow DL](https://www.arrow-dl.com/)
+  - [Github](https://github.com/setvisible/ArrowDL)
+- [PersepolisDM](https://persepolisdm.github.io/)
+  - [How to install](https://github.com/persepolisdm/persepolis/wiki/Home-en)
 
 #### File Searching
 

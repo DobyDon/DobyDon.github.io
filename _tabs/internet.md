@@ -5,6 +5,9 @@ order: 6
 search: true
 ---
 
+> Gunakan [Download Manager](https://dobydon.github.io/windows/#download-managers) untuk mengunduh file.
+{: .prompt-tip }
+
 #### Ad block
 
 - [uBlock](https://github.com/gorhill/uBlock)
