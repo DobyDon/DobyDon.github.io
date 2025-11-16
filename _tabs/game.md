@@ -66,7 +66,8 @@ order: 8
 - [Wabbajack](https://www.wabbajack.org/) Modlist Installer Otomatis untuk Game Bethesda
   - [Discord](https://discord.com/invite/G9ybsAeH7B)
   - [Wiki](https://wiki.wabbajack.org/)
-- [Steam Workshop](http://www.steamworkshop.download/) download steam workshop tanpa harus memiliki game
+- [Steam Workshop](https://steamworkshopdownloader.io/) download steam workshop
+  - [Alt](https://steamworkshopdownloader.net/) 
 - [Curseforge](https://www.curseforge.com/)
 - [Mod](https://mod.io/) Moddb baru
   - [Moddb](https://www.moddb.com/) Komunitas mod game tertua yang menghubungkan pemain, pengembang, dan ide kreatif.
