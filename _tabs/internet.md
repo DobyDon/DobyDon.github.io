@@ -60,6 +60,7 @@ search: true
 - [Search All](https://chromewebstore.google.com/detail/kpdkbemdpepjjppbfgeapjienologapa?utm_source=item-share-cb)
 - [Immersive translate](https://immersivetranslate.com/)
 - [Popup Blocker (strict)](https://github.com/schomery/popup-blocker)
+- [Chrome Currency Converter](https://chromewebstore.google.com/detail/chrome-currency-converter/anbfhidldjknonaihbalghlebaijealk)
 
 #### Password Managers
 

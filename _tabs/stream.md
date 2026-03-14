@@ -52,3 +52,6 @@ order: 9
 #### Video Downloader
 
 - [9xbuddy](https://9xbuddy.com/)
+- You Tube
+  - [youtube-dlp-gui-installer](https://github.com/kazukikasama/youtube-dlp-gui-installer)
+  - [ytdlp-interface](https://github.com/ErrorFlynn/ytdlp-interface)

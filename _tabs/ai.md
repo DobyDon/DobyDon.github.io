@@ -19,3 +19,6 @@ search: true
 
 - [ChatGPT](https://chatgpt.com/)
 - [Ask from ChatGPT](https://webextension.org/listing/ask-from-chatgpt.html)
+
+#### AI Web
+- [Theresanaiforthat](https://theresanaiforthat.com/)

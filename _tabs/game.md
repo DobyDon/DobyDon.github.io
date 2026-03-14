@@ -8,6 +8,8 @@ search: true
 {: .prompt-info }
 > Gunakan [Download Manager](https://dobydon.github.io/windows/#download-managers) untuk mengunduh file.
 {: .prompt-tip }
+> Install [Useful Tools](https://dobydon.github.io/windows/#useful-tools) sebelum menjalankan game
+{: .prompt-tip }
 
 #### Gaming Utility
 
@@ -17,6 +19,8 @@ search: true
 
 #### Game Store
 
+- [Hydralauncher](https://hydralauncher.gg/) Crack Launcher
+  - [Library](https://library.hydra.wiki/)
 - [Steam](https://store.steampowered.com/)
   - [SteamDB](https://steamdb.info/) - [Ekstensi](https://steamdb.info/extension/)
   - [Free packages](https://steamdb.info/freepackages/)

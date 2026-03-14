@@ -11,6 +11,7 @@ search: true
 - [Jotti](https://virusscan.jotti.org/)
 - [Joe Sandbox](https://www.joesandbox.com/)
 - [Nordvpn](https://nordvpn.com/)
+- [Hybrid-analysis](https://hybrid-analysis.com/)
 
 #### Url Scan
 
