@@ -1,66 +1,61 @@
 ---
 icon: fas fa-gamepad
-order: 8
+order: 4
 search: true
 ---
 
 > Blokir iklan denga [Ad Blcok](https://dobydon.github.io/internet/#ad-block)
 {: .prompt-info }
-> Gunakan [Download Manager](https://dobydon.github.io/windows/#download-managers) untuk mengunduh file.
+> Gunakan [Download Manager](https://dobydon.github.io/download/#download-managers) untuk mengunduh file.
 {: .prompt-tip }
 > Install [Useful Tools](https://dobydon.github.io/windows/#useful-tools) sebelum menjalankan game
 {: .prompt-tip }
 
 #### Gaming Utility
-
 - [Before I Play](https://beforeiplay.com/index.php?title=Category:Games)
 - [Can you RUN It](https://www.systemrequirementslab.com/cyri/)
 - [Game Recommendation Engine](https://apps.quanticfoundry.com/recommendations/gamerprofile/videogame/)
 
 #### Game Store
-
-- [Hydralauncher](https://hydralauncher.gg/) Crack Launcher
-  - [Library](https://library.hydra.wiki/)
 - [Steam](https://store.steampowered.com/)
   - [SteamDB](https://steamdb.info/) - [Ekstensi](https://steamdb.info/extension/)
   - [Free packages](https://steamdb.info/freepackages/)
 - [GOG](https://www.gog.com/)
-  - [GOG to Free](https://greasyfork.org/en/scripts/481134-gog-to-free-download-site)
-- [GG Deals](https://gg.deals/deals/)
-
-#### Free Games
-
-- [IsThereAnyDeal](https://isthereanydeal.com/giveaways/)
-- [Free250](https://steam250.com/price/free)
 - [Itch.io](https://itch.io/)
 
-#### DLC Unlocker
+#### Game Launcher
+- [Playnite](https://playnite.link/) Game Library Manager
+- [Hydralauncher](https://hydralauncher.gg/) Crack Launcher
+  - [Library](https://library.hydra.wiki/)
+  - [Themes](https://hydrathemes.shop/)
 
-- [Cream Installer](https://gofile.io/d/90Exof) Versi Cream API untuk Steam yang lebih aman dan mudah digunakan.
+#### Free Games
+- [GG Deals](https://gg.deals/deals/)
+- [IsThereAnyDeal](https://isthereanydeal.com/giveaways/)
+- [Free250](https://steam250.com/price/free)
+
+#### DLC Unlocker
+- [Cream Installer](https://rentry.org/safe-url#cream-installer) Versi Cream API untuk Steam yang lebih aman dan mudah digunakan.
   - [Github](https://github.com/sudojoao/CreamAPI)
-  - [Introduction](https://rentry.co/ALink-CreamInstaller)
+  - [Introduction](https://rentry.org/safe-url#creaminstaller-steam)
   
 #### Download
-
 - [Steamrip](https://steamrip.com/)
 - [Steamgg](https://steamgg.net/)
 - [Gamebounty](https://gamebounty.world/)
-- [Gog-games](https://gog-games.to/)
+- [Gog-games](https://gog-games.to/)🪦 / [Gog-rev](https://gog-rev.com/)
 - [Ankergames](https://ankergames.net/)
 - [Fitgirl-repacks](https://fitgirl-repacks.site/)
 - [Elamigos](https://elamigos.site/) Tersedia juga di ova games
 - [Ova games](https://www.ovagames.com/) *Password:* `www.ovagames.com`
 
 #### Mod Manager
-
 - [Vortex](https://www.nexusmods.com/about/vortex) Nexus Mod manager
 - [Mod Organizer 2](https://github.com/ModOrganizer2/modorganizer)
   - [Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/6194)
   - [Supported games](https://github.com/ModOrganizer2/modorganizer-basic_games/tree/master?tab=readme-ov-file#supported-games)
-  - [Discord](https://discord.gg/ewUVAqyrQX)
 
 #### Modding website
-
 - [Nexus mods](https://www.nexusmods.com/)
 - [Far Cry Modding](https://fcmodding.com/) Far Cry 3, 4, 5, 6, Primal, ND
   - [Discord](https://discord.com/servers/far-cry-modding-community-846424998888734731)
@@ -74,11 +69,9 @@ search: true
 - [Steam Workshop](https://steamworkshopdownloader.io/) download steam workshop
   - [Alt](https://steamworkshopdownloader.net/) 
 - [Curseforge](https://www.curseforge.com/)
-- [Mod](https://mod.io/) Moddb baru
-  - [Moddb](https://www.moddb.com/) Komunitas mod game tertua yang menghubungkan pemain, pengembang, dan ide kreatif.
+- [Moddb](https://www.moddb.com/)
 
 #### Trainer
-
 - [Cheat Engine](https://www.cheatengine.org/)
 - [FLiNG](https://flingtrainer.com/)
 - [MrAntiFun](https://mrantifun.net/ )

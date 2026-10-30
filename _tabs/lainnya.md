@@ -1,53 +1,44 @@
 ---
 # the default layout is 'page'
 icon: fas fa-folder
-order: 14
+order: 20
 search: true
 ---
 
 #### Temp Mail
-
 - [Smailpro](https://smailpro.com/temporary-email)
 - [Gmailnator](https://emailnator.com/)
 
 #### VPN
-
 - [WARP](https://one.one.one.one/)
   - [Konfigurasi dengan WireGuard](https://rentry.co/foss-warp)
 - [Riseup](https://riseup.net/en/vpn)
 - [Protonvpn](https://protonvpn.com/)
 
 #### VPN Tools
-
 - [Wireguard](https://www.wireguard.com/)
   - [wgcf](https://github.com/ViRb3/wgcf) CLI lintas platform tidak resmi untuk Cloudflare Warp.
 - [Openvpn](https://openvpn.net/)
 
 #### Konfigurasi VPN Gratis
-
 - [Racevpn](https://www.racevpn.com/)
 - [Opentunnel](https://opentunnel.net/)
 - [Freevpn](https://www.freevpn.us/)
 
 #### Tool Berguna
-
 - [OSINT Framework](https://osintframework.com/)
 - [Privacy Tools](https://www.privacytools.io/)
 - [Epieos](https://epieos.com/)
 
 #### Layanan Arsip
-
 - [Archive.org](https://archive.org/) Internet Archive
 - [Wayback Machine](https://web.archive.org/) Arsip Halaman Web
 - [Web Design Museum](https://www.webdesignmuseum.org/) Gallery of Web Design History
 
 #### Lainya
-
-- [Alink-creaminstaller](https://rentry.co/alink-creaminstaller)
-- [Cek Email](https://rentry.co/CekEmail)
+- [Cek Email](https://rentry.org/safe-url#cekemail)
 
 #### Sosial Media Tools
-
 - [Imginn](https://imginn.com/) Instagram private
-- [Nitter](https://nitter.net/) Twitter private
-- [Urlebird](https://urlebird.com/trending/)
+- [Nitter](https://nitter.net/)🪦 Twitter private
+- [Urlebird](https://urlebird.com/trending/) Tiktok private

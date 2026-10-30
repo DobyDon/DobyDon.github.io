@@ -1,11 +1,10 @@
 ---
 # the default layout is 'page'
 icon: fas fa-desktop
-order: 5
+order: 1
 ---
 
 #### Windows 
-
 - [Software Download](https://www.microsoft.com/en-us/software-download/) download windows
     - [Uup](https://uup.rg-adguard.net/?id=6dedc052-e4e5-451b-a339-e982591a5a9a) Window's 11 Upgrade
 - [Process Explorer](https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer) Alternative Task manager
@@ -14,7 +13,6 @@ order: 5
 - [Systeminformer](https://systeminformer.sourceforge.io/)
 
 #### Windows Utils
-
 - [Winutil](https://github.com/ChrisTitusTech/winutil) Chris Titus Tech's Windows Utility
 - [Awesome Win11](https://github.com/awesome-windows11/windows11) Windows 11 Settings, Tweaks, Scripts
   - [Should I remove it](https://www.shouldiremoveit.com/index.aspx) Panduan cek dan hapus bloatware.
@@ -34,7 +32,6 @@ order: 5
 - [Autohotkey](https://www.autohotkey.com/) Scriptable automation tool for Windows
 
 #### Windows Context Menu
-
 - [Nilesoft SHELL](https://nilesoft.org/)
 - [iMA Menu](https://github.com/iMAboud/iMA-Menu) - iMA Menu Remake
 - [Shell](https://github.com/moudey/Shell) - Powerful context menu manager for Windows File Explorer
@@ -42,7 +39,6 @@ order: 5
 - [Kando](https://kando.menu/) Context menu manager
 
 #### Windows packages / FOSS Sites
-
 - [UniGetUI](https://www.marticliment.com/unigetui/) formerly WingetUI
   - [Store](https://store.rg-adguard.net/), [StoreWeb](https://msft-store.tplant.com.au/) Link Generators untuk Microsoft Store [Docs](https://rentry.co/paidAppsMsStore)
 - [FluentStore](https://github.com/yoshiask/FluentStore) Microsoft Store Frontend
@@ -55,59 +51,16 @@ order: 5
 - [Uptodown](https://www.uptodown.com/windows)
 - [Softpedia](https://www.softpedia.com/)
 
-#### Antivirus
-
-- [Av-Comparatives](https://www.av-comparatives.org/tests/advanced-threat-protection-test-2025-consumer/#:~:text=the%20test%20situation.-,Test%20Results,-Below%20are%20the)
-- [Malwarebytes](https://www.malwarebytes.com/)
-  - [Forums](https://forums.malwarebytes.com/forum/7-windows-malware-removal-help-support/)
-- [Kaspersky](https://www.kaspersky.com/downloads/antivirus)
-- [Antivirus](https://old.reddit.com/r/antivirus/wiki/index#wiki_anti-virus_.28aka_anti-malware.29_developers)
-
-#### Download Managers
-
-- [AB Download Manager](https://abdownloadmanager.com/)
-- [JDownloader](https://jdownloader.org/jdownloader2)
-  - [Clean Installers](https://board.jdownloader.org/showthread.php?t=54725) JDownloader 2 Clean Installers (No Adware!)
-  - [Enhance](https://lemmy.world/post/3098414)
-- [IDM](https://www.internetdownloadmanager.com/download.html)
-  - [Instruksi](https://rentry.org/installidm)
-- [Xtreme download manager](https://xtremedownloadmanager.com/)
-- [Free Download Manager](https://www.freedownloadmanager.org/)
-- [Motrix](https://motrix.app/) Bisa unduh BitTorrent dan Magnet
-- [File Centipede](https://filecxx.com/en_US/index.html#)
-  - [Activation Code](https://filecxx.com/en_US/activation_code.html)
-  - [Github](https://github.com/filecxx/FileCentipede/)
-- [HTTP Downloader](https://erickutcher.github.io/)
-- [Arrow DL](https://www.arrow-dl.com/)
-  - [Github](https://github.com/setvisible/ArrowDL)
-- [PersepolisDM](https://persepolisdm.github.io/)
-  - [How to install](https://github.com/persepolisdm/persepolis/wiki/Home-en)
-
-#### File Searching
-
-- [Voidtools](https://voidtools.com/)
-- [Fluent Search](https://fluentsearch.net/)
-- [Agent Ransack](https://www.mythicsoft.com/agentransack/)
-
-#### PDF
-
-- [PDF gear](https://www.pdfgear.com/)
-- [Sejda](https://www.sejda.com/)PDF tool
-
-#### MEGA Tools
-
-- [Mega](https://mega.io/)
-- [Mega Basterd](https://github.com/tonikelope/megabasterd) Download Quota Bypass
-- [Mega Account Generators](https://rentry.co/fmhybase64#mega-gen) Account Gen / Ukuran Unggah Tak Terbatas
-  - [Fix Error](https://rentry.co/mega_account_generator)
-
 #### Email
 - [Proton](https://proton.me/mail)
 - [Thunderbird](https://www.thunderbird.net/)
 - [Haveibeenpwned](https://haveibeenpwned.com/) Checks whether your email has been in a data breach.
 
-#### Wallpaper
+#### Wallpaper Tools
+- [Lively Wallpaper](https://livelywallpaper.net/)
+- [Screen Play](https://screen-play.app/)
 
+#### Wallpaper
 - [Wallhaven](https://wallhaven.cc/)
   - [Downloader](https://github.com/eramdam/WallbaseDirectDownloader?tab=readme-ov-file#wallhaven-direct-downloader)
 - [Wallpaper Abyss](https://wall.alphacoders.com/)
@@ -115,7 +68,8 @@ order: 5
   - [Desktophut](https://www.desktophut.com/)
   - [Moewalls](https://moewalls.com/)
   - [Wallegend](https://wallegend.net/en/)
-- [AIO Photos](https://www.aiophotoz.com/)
+  - [Motionbgs](https://motionbgs.com/)
+- Redit [1](https://www.reddit.com/r/wallpaper), [2](https://www.reddit.com/r/wallpapers)
 
 #### Useful Tools
 - [DirectX](https://www.microsoft.com/en-us/download/details.aspx?id=35)

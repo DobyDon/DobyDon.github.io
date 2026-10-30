@@ -1,12 +1,13 @@
 ---
 # the default layout is 'page'
 icon: fas fa-file-audio
-order: 10
+order: 8
 search: true
 ---
 
 #### DAW
-
+>↩️[Free DAW](https://dobydon.github.io/download/#download-sites).
+{: .note}
 - [Ableton](https://www.ableton.com/en/trial/)
 - [FL Studio](https://www.image-line.com/fl-studio/download)
 - [Logic](https://www.apple.com/logic-pro/trial/)
@@ -14,7 +15,6 @@ search: true
 - [Cubase](https://www.steinberg.net/cubase/)
 
 #### VST / Sample
-
 - [Plugintorrent](https://plugintorrent.com/)
 - [Audiostorrent](https://audiostorrent.com/)
 - [Samplefocus](https://samplefocus.com/)
@@ -24,6 +24,5 @@ search: true
 - [Sampledrive](https://www.sampledrive.org/)
 
 #### Stem Splitter
-
 - [Fadr](https://fadr.com/stems)
 - [Lalals](https://lalals.com/stem-splitter)

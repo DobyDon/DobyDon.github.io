@@ -1,17 +1,15 @@
 ---
 # the default layout is 'page'
 icon: fas fa-book
-order: 11
+order: 7
 search: true
 ---
 #### Komik
-
 - [Readcomiconline](https://readcomiconline.li/)
 - [Getcomics](https://getcomics.org/)
 - [Komik Cse](https://cse.google.com/cse?cx=006516753008110874046:p4hgytyrohg)      Pencarian Komik Multi-Situs
 
 #### Manga
-
 - [Mangadex](https://mangadex.org/)
   - [Mangadex-download](https://mangadex-dl.mansuf.link/)
   - [Script](https://github.com/frozenpandaman/mangadex-dl) Unduh manga dari `MangaDex.org`
@@ -20,6 +18,5 @@ search: true
 - [Ballons Translator](https://github.com/dmMaze/BallonsTranslator/blob/master/README_EN.md) Penerjemah Manga
   - [Cotrans](https://cotrans.touhou.ai/)
 
-#### Pemerograman
-
+#### Program
 - [free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-id.md) kumpulan buku bahasa pemerograman

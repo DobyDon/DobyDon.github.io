@@ -1,12 +1,11 @@
 ---
 # the default layout is 'page'
 icon: fas fa-microchip
-order: 7
+order: 3
 search: true
 ---
 
 #### Chat Bot
-
 - [Gemini](https://gemini.google.com/) Google Chatbots
   - [Ai studio](https://aistudio.google.com/app/prompts/new_chat)
 - [Chatgpt](https://chatgpt.com/) Open AI
@@ -16,7 +15,6 @@ search: true
 - [Copilot](https://copilot.microsoft.com/)
 
 #### Chat GPT
-
 - [ChatGPT](https://chatgpt.com/)
 - [Ask from ChatGPT](https://webextension.org/listing/ask-from-chatgpt.html)
 
