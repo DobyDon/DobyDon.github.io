@@ -1,0 +1,18 @@
+name: Check Links for Malware/Phishing
+
+on: [push, pull_request]
+
+jobs:
+  linkChecker:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      # Menggunakan tool Lychee untuk mengecek apakah ada link yang mati atau berbahaya
+      - name: Link Checker
+        uses: lycheeverse/lychee-action@v2
+        with:
+          # Mencari link di semua file markdown dan code
+          args: --verbose --no-progress "**/*.md" "**/*.js" "**/*.py"
+        env:
+          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
